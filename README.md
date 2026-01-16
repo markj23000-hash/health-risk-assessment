@@ -1,6 +1,6 @@
-# Health Risk Assessment System
+# Health Risk Assessment Model
 
-Machine learning system that predicts health risk scores based on environmental data including air quality and weather conditions.
+Machine learning model that predicts health risk scores based on environmental data including air quality and weather conditions.
 
 ## Overview
 Developed a predictive model to assess health risks from urban environmental factors, achieving high accuracy with R² of 0.973 using ensemble learning techniques.
